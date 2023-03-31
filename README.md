@@ -1,2 +1,2 @@
 # git_excercise
-Lorem ipsum
+Lorem ipsum Lorem ipsumis 2 testing
